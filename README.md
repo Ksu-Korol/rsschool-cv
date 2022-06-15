@@ -1,1 +1,3 @@
 # rsschool-cv
+[https://Ksu-Korol.github.io/rsschool-cv/cv](cv.md "CV")
+https://Ksu-Korol.github.io/rsschool-cv/
